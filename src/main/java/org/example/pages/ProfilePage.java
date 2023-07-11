@@ -12,7 +12,7 @@ public class ProfilePage {
 
 
     // Добавляем локаторы:
-    private final By nameField = By.xpath(".//input[@value='Evgeniy']");
+    private final By nameField = By.xpath(".//input[@value='Mike']");
 
 
     // Добавили конструктор класса page object
